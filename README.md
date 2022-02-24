@@ -1,11 +1,13 @@
 # wordbot
 wordbot in Javascript
 
-install these modules
+1. Install these modules
+
 npm install wordnet-db --save
+
 npm install natural --save
 
-Run the server  
+2. Run the server  
 node app.js
 
-open the inde.html file in browser
+3. Open the inde.html file in browser
