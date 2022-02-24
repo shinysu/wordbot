@@ -3,6 +3,7 @@ wordbot in Javascript
 
 1. Install these modules  
 npm install wordnet-db --save
+
 npm install natural --save
 
 3. Run the server  
